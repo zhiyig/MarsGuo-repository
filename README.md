@@ -11,11 +11,14 @@ I worked at [Ping An Insurance Group](https://group.pingan.com) as an Investment
 Before that, I am a data anayst at the [World Resources Institute](https://www.wri.org).\
 In the future, I'd love to find a job at an Investment Banking.\
 Here is [my Linkedin](https://www.linkedin.com/in/zhiyi-guo98/).
+
 # What I hope to learn
-From this course, I hope to receive:\
+From this course, I hope to receive:
 1. The Criteria for analyzing what are good charts;
 2. The things I should consider before choose the methods to creat chart;
 3. What methods I could adopt to creat a good chart.
+
+
 # Portfolio
 Here is where my fancy and accessible course work will be.
 ## Course work 1
