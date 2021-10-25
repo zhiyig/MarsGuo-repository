@@ -5,7 +5,7 @@ https://zhiyig.github.io/MarsGuo-repository/
 # About Me
 My name is Mars Guo (he/him).\
 Here is how I looks like:\
-<img src="self_image.jpeg" width=20% height=20%>
+<img src="https://github.com/zhiyig/MarsGuo-repository/blob/main/self_image.jpeg" width=20% height=20%>
 
 I came from China Mainland and received my B.S Ecomonics from Renmin University at Beijing.\
 Currently, I am studying for MSPPM program at Heinz College.\
