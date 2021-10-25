@@ -1,5 +1,5 @@
 # Portfolio
-This is my public portfolios for Telling Stories with Data at CMU!/
+This is my public portfolios for Telling Stories with Data at CMU!\
 https://zhiyig.github.io/MarsGuo-repository/
 
 # About Me
