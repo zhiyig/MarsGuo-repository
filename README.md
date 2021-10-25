@@ -9,7 +9,8 @@ Currently, I am studying for MSPPM program at Heinz College.\
 I am really interested in FinTech and Sustainable Investing topics.\
 I worked at [Ping An Insurance Group](https://group.pingan.com) as an Investment Analyst in Shanghai this summer.\
 Before that, I am a data anayst at the [World Resources Institute](https://www.wri.org).\
-In the future, I'd love to find a job at an Investment Banking.
+In the future, I'd love to find a job at an Investment Banking.\
+Here is [my Linkedin](https://www.linkedin.com/in/zhiyi-guo98/).
 # What I hope to learn
 From this course, I hope to receive:\
 1. The Criteria for analyzing what are good charts;
