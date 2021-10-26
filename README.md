@@ -22,7 +22,8 @@ From this course, I hope to receive:
 
 # Portfolio
 Here is where my fancy and accessible course work will be.
-## Course work 1
+## Course work 1 King County Cumulative Case Counts
+<div class="flourish-embed flourish-chart" data-src="visualisation/7639995"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Course work 2
 
