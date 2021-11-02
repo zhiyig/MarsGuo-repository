@@ -25,6 +25,4 @@ Here is where my fancy and accessible course work will be.
 ## Course work 1 King County Cumulative Case Counts
 <div class="flourish-embed flourish-chart" data-src="visualisation/7639995"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Course work 2
-
-## Final project
+[Next Page: Visulizing government debt](/dataviz2.md)
