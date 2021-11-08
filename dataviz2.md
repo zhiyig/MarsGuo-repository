@@ -14,4 +14,4 @@
 * The connected dot chart emphasize on showing the change and range of the government-debt-to-GDP ratio of each country across time, and also provide a easy way to compare among different countries.
 
 [Back to first page](/README.md)
-[To next page](/Tableau.md)
+[To first tryout of Tableau](/Tableau.md)
