@@ -9,6 +9,6 @@
 </script>
 
 
-[Back to last page](/dataviz2.md) /n
+[Back to last page](/dataviz2.md)
 
-[Assignment 3&4: Internet Crime](/Internet Crime.md)
+[Assignment 3&4 - Internet Crime](/Internet_Crime.md)
