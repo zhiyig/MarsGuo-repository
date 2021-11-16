@@ -26,5 +26,5 @@ Here is where my fancy and accessible course work will be.
 <div class="flourish-embed flourish-chart" data-src="visualisation/7639995"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Final Project Part 1
-[See Final Project Part 1](/Final_Project_Part1.md)
+[See Final Project Part 1](/Tableau.md)
 
