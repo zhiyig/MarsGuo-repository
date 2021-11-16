@@ -28,3 +28,4 @@ Here is where my fancy and accessible course work will be.
 ## Final Project Part 1
 [See Final Project Part 1](/Tableau.md)
 
+[To first tryout of Tableau](/Tableau.md)
