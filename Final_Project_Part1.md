@@ -16,7 +16,7 @@ My final project would introduce countries' goals on achieving net zero carbon e
 
 
 # Data
-The Timeline of Carbon Neutral Targets by country provided by [Climate Action Tracker](https://climateactiontracker.org/climate-target-update-tracker/) /n
+The Timeline of Carbon Neutral Targets by country provided by [Climate Action Tracker](https://climateactiontracker.org/climate-target-update-tracker/) \
 The predicted and current emission of each country provided by [World Resources Institute](https://datasets.wri.org/dataset/cait-emissions-projections)
 
 # Method and medium
