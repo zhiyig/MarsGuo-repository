@@ -9,10 +9,10 @@ My final project would introduce countries' goals on achieving net zero carbon e
 3. Visualize the predicted total net carbon emission from now to 2100, based on the prediction of countries' change of carbon emission in the futre.
 
 # Sketches
-![alt text](/IMG_9556.HEIC)
-![alt text](/IMG_9557.HEIC)
-![alt text](/IMG_9558.HEIC)
-![alt text](/IMG_9559.HEIC)
+![alt text](/1.jpeg)
+![alt text](/2.jpeg)
+![alt text](/3.jpeg)
+![alt text](/4.jpeg)
 
 
 # Data
