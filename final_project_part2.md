@@ -34,12 +34,24 @@
 ![alt text](/4.jpeg)
 
 ## User research
-Target audience: 
+Target audience: University students who want to gain knowledge about carbon net zero
 
-Approach to identifying representative individuals to interview:
+Approach to identifying representative individuals to interview: Interview at bus stops near universities
 
 Interview script:
+1. How confident you feel about the knowledge of climate change?
+2. Have you heard about carbon net zero before?
+3. Let the audience read the draft visualization story
+4. After reading the visualization, is there any information you think is essential however not shown in the visulziation?
+5. Do you have any recommendation regarding the visualization methods used in this visualization?
+
 
 Findings from interviews:
+1. People usually have knowledge about climate change, however, lack knowledge about net zero. 
+2. Audience are curious about ways to participate in achieving net zero by taking daily actions.
+3. Audience want to know more about how will countries take action to achieve net zero.
 
 Changes plan to implementing to visualization
+1. Need more information about what is net zero, the history of net zero targets, how to measure achieving net zero carbon emission
+2. Need adding information about the carbon emission reduction methods countries will utilize, which industry are going to be influenced by this campagin.
+3. Need to add information about what individual people could do to participate in achieving net zero.
