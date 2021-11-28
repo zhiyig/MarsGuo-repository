@@ -31,8 +31,15 @@
 ### India will achieve net zero in 2070, then global main countries will achieve net zero
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/7965025"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### 
+![alt text](/4.jpeg)
 
+## User research
+Target audience: 
 
+Approach to identifying representative individuals to interview:
 
-## User research and interviews
+Interview script:
+
+Findings from interviews:
+
+Changes plan to implementing to visualization
