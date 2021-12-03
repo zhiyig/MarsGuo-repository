@@ -27,4 +27,5 @@ Here is where my fancy and accessible course work will be.
 
 ## Final Project Part 1
 [See Final Project Part 1](/Final_Project_Part1.md)\
-[See Final project part 2](/final_project_part2.md)
+[See Final project part 2](/final_project_part2.md)\
+[See Final project part 3][/FinalProject_Part3.md]
