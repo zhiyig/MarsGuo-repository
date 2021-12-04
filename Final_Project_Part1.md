@@ -23,3 +23,5 @@ The predicted and current emission of each country provided by [World Resources 
 I will choose to use shorthand.
 
 
+[Back to first page](/README.md)\
+([To Final project part 2](/final_project_part2.md)
