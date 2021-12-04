@@ -8,7 +8,7 @@
 4. 
 
 ## Check out my final report made on Shorthand
-[The link to my final report](https://carnegiemellon.shorthandstories.com/stop-climate-change-through-net-zero-carbon-emission/index.html)
+<script src="https://carnegiemellon.shorthandstories.com/stop-climate-change-through-net-zero-carbon-emission/embed.js"></script>
 
 ## The references used in the project
 1. NASA Goddard Institute for Space Studies (GISS) Surface Temperature Analysis, Global Land-Ocean Temperature Index. • Average global mean temperature anomalies in degrees Celsius relative to a base period.
