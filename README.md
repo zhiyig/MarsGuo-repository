@@ -1,5 +1,5 @@
-# Portfolio
-This is my public portfolios for Telling Stories with Data at CMU!\
+
+
 https://zhiyig.github.io/MarsGuo-repository/
 
 # About Me
@@ -21,11 +21,13 @@ From this course, I hope to receive:
 
 
 # Portfolio
-Here is where my fancy and accessible course work will be.
-## Course work 1 King County Cumulative Case Counts
-<div class="flourish-embed flourish-chart" data-src="visualisation/7639995"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-## Final Project Part 1
+These are links to my fancy works I created during this mini semester.
+## Visulization Excercises
+[Line Chart: King County Cumulative Case Count](/LineChart_KingCountyCumulativeCaseCount.md)\
+[Line Chart: Government Debt-to-GDP ratio](/LineChart_KingCountyCumulativeCaseCount.md)\
+[Trust in news organizations](/Trust in news organizations (source: Simmons Research).md)\
+[Visualizing the Coronavirus using Tableau](/Visualizing the Coronavirus using Tableau.md)\
+## Final Project - Stop Climate Change Through Net Zero
 [See Final Project Part 1](/Final_Project_Part1.md)\
 [See Final project part 2](/final_project_part2.md)\
 [See Final project part 3](/Final_Project_Part3.md)
