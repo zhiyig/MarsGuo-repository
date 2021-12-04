@@ -39,6 +39,5 @@ Here is their answer to my questions:
 </script>
 
 
-[To first tryout of Tableau](/Tableau.md)
-
+[To first tryout of Tableau](/Tableau.md)\
 [Back to first page](/README.md)
