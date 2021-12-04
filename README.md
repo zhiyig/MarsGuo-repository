@@ -25,7 +25,7 @@ These are links to my fancy works I created during this mini semester.
 ## Visulization Excercises
 [Line Chart: King County Cumulative Case Count](/LineChart_KingCountyCumulativeCaseCount.md)\
 [Line Chart: Government Debt-to-GDP ratio](/LineChart_KingCountyCumulativeCaseCount.md)\
-[Trust in news organizations](/Trust in news organizations (source: Simmons Research).md)\
+[Trust in news organizations](/news.md)\
 [Visualizing the Coronavirus using Tableau](/Visualizing the Coronavirus using Tableau.md)\
 ## Final Project - Stop Climate Change Through Net Zero
 [See Final Project Part 1](/Final_Project_Part1.md)\
