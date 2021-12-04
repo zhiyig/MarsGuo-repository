@@ -20,5 +20,6 @@ GISTEMP base period: 1951-1980.
 6. University of Michigan, Factsheets about sustainability,https://css.umich.edu/factsheets
 
 ## Previous part of Final Project
-[See Final Project Part 1](/Final_Project_Part1.md)\
-[See Final project part 2](/final_project_part2.md)\
+[Back to Final Project Part 1](/Final_Project_Part1.md)\
+[Back to Final project part 2](/final_project_part2.md)\
+[Back to first page](/README.md)\
