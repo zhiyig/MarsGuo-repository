@@ -27,6 +27,7 @@ These are links to my fancy works I created during this mini semester.
 [Line Chart: Government Debt-to-GDP ratio](/LineChart_KingCountyCumulativeCaseCount.md)\
 [Trust in news organizations](/news.md)\
 [Visualizing the Coronavirus using Tableau](/covid.md)
+
 ## Final Project - Stop Climate Change Through Net Zero
 [See Final Project Part 1](/Final_Project_Part1.md)\
 [See Final project part 2](/final_project_part2.md)\
