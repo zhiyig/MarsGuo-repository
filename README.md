@@ -24,7 +24,7 @@ From this course, I hope to receive:
 These are links to my fancy works I created during this mini semester.
 ## Visulization Excercises
 [Line Chart: King County Cumulative Case Count](/LineChart_KingCountyCumulativeCaseCount.md)\
-[Line Chart: Government Debt-to-GDP ratio](/LineChart_KingCountyCumulativeCaseCount.md)\
+[Line Chart: Government Debt-to-GDP ratio](/GovernmentDebt.md)\
 [Trust in news organizations](/news.md)\
 [Visualizing the Coronavirus using Tableau](/covid.md)
 [Internet Crime](/Internet_Crime.md)
