@@ -24,4 +24,4 @@ I will choose to use shorthand.
 
 
 [Back to first page](/README.md)\
-([To Final project part 2](/final_project_part2.md)
+[To Final project part 2](/final_project_part2.md)
