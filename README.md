@@ -26,7 +26,7 @@ These are links to my fancy works I created during this mini semester.
 [Line Chart: King County Cumulative Case Count](/KingCounty.md)\
 [Line Chart: Government Debt-to-GDP ratio](/GovernmentDebt.md)\
 [Trust in news organizations](/news.md)\
-[Visualizing the Coronavirus using Tableau](/covid.md)
+[Visualizing the Coronavirus using Tableau](/covid.md)\
 [Internet Crime](/Internet_Crime.md)
 
 ## Final Project - Stop Climate Change Through Net Zero
