@@ -22,4 +22,4 @@ GISTEMP base period: 1951-1980.
 ## Previous part of Final Project
 [Back to Final Project Part 1](/Final_Project_Part1.md)\
 [Back to Final project part 2](/final_project_part2.md)\
-[Back to first page](/README.md)\
+[Back to first page](/README.md)
