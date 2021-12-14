@@ -30,6 +30,9 @@ These are links to my fancy works I created during this mini semester.
 [Internet Crime](/Internet_Crime.md)
 
 ## Final Project - Stop Climate Change Through Net Zero
+1. This is the initial draft of the final project.
 [See Final Project Part 1](/Final_Project_Part1.md)\
+2. I conducted some audience research on my final project.
 [See Final project part 2](/final_project_part2.md)\
+3. This is the final project.
 [See Final project part 3](/Final_Project_Part3.md)
