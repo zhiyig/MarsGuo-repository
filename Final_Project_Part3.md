@@ -1,14 +1,13 @@
 # Final Project Part 3
 
+## Check out my final report made on Shorthand
+<script src="https://carnegiemellon.shorthandstories.com/stop-climate-change-through-net-zero-carbon-emission/embed.js"></script>
 
 ## Changes made based on the user research during part 2
 1. Added background knowledge about: what is climate change, the effects of climate change, the reason of climate change.
 2. Added background knowledge about: the definition of net zero, call to action at the end
 3. Added several media sources including YouTube video, personal carbon footprint calculator, in case audience want to gain more knowledge about climate change, and discover their own carbon footprint.
-4. 
 
-## Check out my final report made on Shorthand
-<script src="https://carnegiemellon.shorthandstories.com/stop-climate-change-through-net-zero-carbon-emission/embed.js"></script>
 
 ## The references used in the project
 1. NASA Goddard Institute for Space Studies (GISS) Surface Temperature Analysis, Global Land-Ocean Temperature Index. • Average global mean temperature anomalies in degrees Celsius relative to a base period.
